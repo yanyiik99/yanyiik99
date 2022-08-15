@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ari Pramana u can call me yanyiik</h1>
+<h1 align="center">Hi 👋, I'm Ari Pramana my username is  yanyiik</h1>
 <h3 align="center">To Be Front End Dev 🔑</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanyiik99&label=Profile%20views&color=0e75b6&style=flat" alt="yanyiik99" /> </p>
